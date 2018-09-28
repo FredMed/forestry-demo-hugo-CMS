@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- content/studienhänge.md
 - content/_index.md
